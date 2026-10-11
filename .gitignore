@@ -1,0 +1,15 @@
+# ダウンロードしたメディアは追跡しない
+songs/*/media/
+*.m4a
+*.mp3
+*.wav
+*.opus
+*.webm
+*.mp4
+*.mkv
+*.part
+
+# Python
+.venv/
+__pycache__/
+.ruff_cache/

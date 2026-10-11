@@ -1,0 +1,5 @@
+# ダウンロード対象。name は保存時のファイル名（拡張子なし）になる。
+#
+[[sources]]
+name = "original"
+url = "https://www.youtube.com/watch?v=lsBY5Z4zRAY"

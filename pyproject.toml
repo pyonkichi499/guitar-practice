@@ -1,0 +1,13 @@
+[project]
+name = "guitar-practice"
+version = "0.1.0"
+description = "ギター練習用の音源ダウンロードスクリプトと練習メモ"
+requires-python = ">=3.14"
+dependencies = [
+    "yt-dlp>=2026.8.19",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.17.0",
+]
